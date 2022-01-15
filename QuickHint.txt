@@ -1,0 +1,60 @@
+https://opensource-demo.orangehrmlive.com/index.php/leave/viewLeaveList
+
+Interview questions
+www.qafox.com
+
+Reading
+www.javatpoint.com - overloading vs overriding
+Excel - Advance - Youtube
+
+PCAP - PCAP-31-03 
+
+https://pythoninstitute.org/certification/pcap-certification-associate/#:~:text=Overview,used%20in%20object%2Doriented%20programming.
+
+Resume writing
+	> LinkedIn
+	> Naukari
+	> Indeed
+
+Manual testing, Selenium Testing,C, C++, HTML, Java, Python, SQL 
+
+> JIRA code
+> Manual Testing
+> Selenium IDE
+> Selenium WebDriver
+
+
+
+Manual Testing
+--------------------------------
+1. What do you understand by Testing? Why?
+Ans. Process where tester ensure whether Product is ROBUST, Finding Bugs, Erros/Issues and 
+deliver product Error free to client
+
+2.What is difference between manual testing VS Automation?
+Ans. Automation - writng code ( java/C#/Python....) to autamte a site with autopopulating value for testing.
+
+
+3. SDLC
+Ans.Software Development Life Cycle ( Different phase of Software develpment from scratch to Client delivery)
+
+4. Different types of SDLC life cycle Model?
+Ans. 	Agile Model
+		Waterfall Model - Google it
+		Spiral model - Google it
+		Prototype Model
+		
+
+https://opensource-demo.orangehrmlive.com/index.php/auth/login
+
+
+
+
+Development Stage ------> QA Env(Tester Test) ------> UAT( User accept testing) -----> PreProd ----> Production Env
+					
+
+
+
+
+Test Case
+-------------------------
